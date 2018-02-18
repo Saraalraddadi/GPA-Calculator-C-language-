@@ -1,1 +1,1 @@
-# GPA-Calculator-C-language-
+# QUT-GPA-Calculator-C-language-
